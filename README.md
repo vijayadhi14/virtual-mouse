@@ -7,8 +7,8 @@ Features:
 - Touch Index finger + Thumb → Left click  
 - Smooth movement (no shaky cursor)  
 ---
-Install dependencies
-pip install opencv-python 
-pip install mediapipe 
-pip install pyautogui
+Install dependencies:
+-pip install opencv-python 
+-pip install mediapipe 
+-pip install pyautogui
 
